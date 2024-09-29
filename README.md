@@ -53,7 +53,7 @@ These visualizations aid in identifying trends, seasonal patterns, and the distr
 
 
 
-# Dashboard 2: Details
+# Dashboard 3: Details
 
 ![details](https://github.com/user-attachments/assets/db5a9747-c7e2-446e-a072-2545c0f7f189)
 
